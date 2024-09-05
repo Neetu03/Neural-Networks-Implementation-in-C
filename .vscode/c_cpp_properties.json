@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "windows-clang-x64",
+            "includePath": [
+                "C:\\MinGW\\include",
+                "${workspaceFolder}/video2_files"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
